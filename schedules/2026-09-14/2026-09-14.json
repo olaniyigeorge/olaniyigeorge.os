@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-14",
+  "timezone": "Africa/Lagos",
+  "utc_offset": "+01:00",
+  "entries": [
+    {
+      "id": "entry-001",
+      "title": "Teaching: system-thinking-with-python-cohort-1",
+      "start": "10:30",
+      "end": "12:00",
+      "duration_minutes": 90,
+      "category": "teaching",
+      "notes": "Cohort 1 system thinking with Python",
+      "calendar_event_id": "q6pnmc5jnkiu632i45th93cl58",
+      "synced": true
+    },
+    {
+      "id": "entry-002",
+      "title": "Joshua - AI/Tech podcast meeting",
+      "start": "12:00",
+      "end": "13:00",
+      "duration_minutes": 60,
+      "category": "meeting",
+      "notes": "Podcast discussion about AI/tech",
+      "calendar_event_id": "pes15gu318pim0o894vmjq2e8g",
+      "synced": true
+    },
+    {
+      "id": "entry-003",
+      "title": "Winnov8 Weekly Team Meetings",
+      "start": "13:00",
+      "end": "14:00",
+      "duration_minutes": 60,
+      "category": "meeting",
+      "notes": "Already on Google Calendar",
+      "calendar_event_id": "mmqt9erk6bsaauksa847gmslm8_20260914T120000Z",
+      "synced": true,
+      "skip_sync": true
+    },
+    {
+      "id": "entry-004",
+      "title": "Post-Winnov8 follow-up",
+      "start": "14:00",
+      "end": "14:30",
+      "duration_minutes": 30,
+      "category": "buffer",
+      "notes": "30 min after Winnov8 meeting",
+      "calendar_event_id": "cab0ddplr82u72a0a9fha07p1c",
+      "synced": true
+    },
+    {
+      "id": "entry-005",
+      "title": "Project retro",
+      "start": "18:00",
+      "end": "19:30",
+      "duration_minutes": 90,
+      "category": "meeting",
+      "notes": "",
+      "calendar_event_id": "fg3mjspos209lcmeml2huh83sg",
+      "synced": true
+    },
+    {
+      "id": "entry-006",
+      "title": "Workout",
+      "start": "20:30",
+      "end": "21:00",
+      "duration_minutes": 30,
+      "category": "personal",
+      "notes": "Before sleeping",
+      "calendar_event_id": "ttfop4dq9uf6b7qvgdnv5sb5h4",
+      "synced": true
+    }
+  ]
+}
