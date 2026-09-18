@@ -1,35 +1,11 @@
-# Coopwise — Side Project
+**Status:** Active — Tier 1 for the next 3 months. Target: MVP ready, taking users; onboard at least 2 cooperatives.
+**Stack:** Full-stack (Node/Django/React/Next.js), Web3.
+**Tier:** 1 — for the next 3 months. Coopwise is the path to financial stability through own businesses (MVV).
 
-## Overview
+...
 
-**What it is:** Side project. (Details to be filled in from meeting/transcription.)
+## 3-Month Target
 
-**Status:** (active / paused / idea stage — fill in)
-
-**Tech stack:** (fill in)
-
-**Repo / links:** (fill in)
-
-**What it does:** (fill in)
-
-**Why I'm building it:** (fill in)
-
----
-
-## Current State
-
-- (fill in from transcription)
-
----
-
-## Next Steps
-
-- (fill in from transcription)
-
----
-
-## How to update this
-
-After each meeting or transcription:
-1. Pull out: what Coopwise is, current state, tech stack, what's built, what's next.
-2. Fill in the relevant sections above.
+- **MVP ready, taking users.** Not just built — used. Real cooperatives putting money through it.
+- **Onboard at least 2 cooperatives.** This is the proof of work for the Coopwise path (financial stability through own businesses in the MVV).
+- **Status by 3 months:** MVP live, 2 co-ops onboarded, feedback loop running. If not on track by month 2, escalate.

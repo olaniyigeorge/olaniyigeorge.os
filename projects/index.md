@@ -7,10 +7,13 @@ This is the entry point for all projects in the OS. Each project has its own dir
 | Project | Directory | Status |
 |---------|-----------|--------|
 | Koya AI Automations | `projects/koya-ai-automations/` | Active — Week 3 of 6 |
-| Coopwise | `projects/coopwise/` | Side project — (fill in status) |
-| Winnov8 | `projects/winnov8/` | Current employment — Backend Developer |
-| Workflow Automation | `projects/workflow-automation/` | Active — ongoing personal initiative |
-| Job Search | `projects/job-search/` | Active — parallel to Koya |
+|| Truefit.ai | `projects/truefit-ai/` | Active — flagship; in development, core agent response issue being fixed |
+|| Coopwise | `projects/coopwise/` | Active — slow burn; African co-op savings platform |
+|| BullMQ Contributions | `projects/bullmq-contributions/` | Active — Tier 2 strategic OSS; max 5–10 hrs/week |
+|| Winnov8 | `projects/winnov8/` | Under review — unpaid backend role, re-evaluating time investment |
+|| Oudtech | `projects/oudtech/` | Paused — marketplace platform, too execution-heavy for now |
+|| Workflow Automation | `projects/workflow-automation/` | Active — ongoing personal initiative |
+|| Job Search | `projects/job-search/` | Active — parallel to Koya |
 
 ---
 

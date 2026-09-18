@@ -1,0 +1,14 @@
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Windows download markers (Zone.Identifier)
+*:Zone.Identifier
+
+# Personal / sensitive files
+personal/
+tracking/job_tracker.xlsx
+
+# Logs (regenerable)
+logs/

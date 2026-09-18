@@ -1,0 +1,38 @@
+{
+  "job_title": "Senior Full-Stack Engineer",
+  "company": "ExampleAI Inc",
+  "job_url": null,
+  "date_generated": "2026-08-18",
+  "fit_analysis": {
+    "matched_skills": [
+      "AI",
+      "API",
+      "AWS",
+      "FastAPI",
+      "LLM",
+      "PostgreSQL",
+      "Python",
+      "React",
+      "SQL",
+      "TypeScript",
+      "WebRTC",
+      "real-time"
+    ],
+    "missing_skills": [],
+    "must_have_missing": [],
+    "nice_matched": [
+      "webrtc",
+      "ai",
+      "llm",
+      "aws",
+      "real-time"
+    ],
+    "industry_hits": [
+      "real-time systems"
+    ],
+    "relevant_bullets": [],
+    "cv_keyword_count": 46,
+    "job_keyword_count": 12,
+    "overlap_pct": 100
+  }
+}

@@ -1,47 +1,10 @@
-# Winnov8 — Employment
+## Key Decision
 
-## Overview
+This role is active but unpaid and under re-evaluation for time investment. The core question: does this role produce enough value (proof of work, network, paid conversion, skill growth) to justify the time, or should the time shift to Truefit / job search / paid work?
 
-**Company:** Winnov8 — https://winnov8hq.com/
+**3-month target:** If Winnov8 is not paid by 3 months, transition to only a minor contributor (time-boxed, low capacity). Ship a big product for Winnov8 that can be used as proof of work — something substantial that demonstrates backend/engineering capability on the collaboration platform.
 
-**Role:** Backend Developer
-
-**Status:** Current employment (fill in start date, team, stack from transcription)
-
----
-
-## Role Details
-
-- **Title:** Backend Developer
-- **Start date:** (fill in)
-- **Team:** (fill in)
-- **Tech stack in use:** (fill in)
-- **Key responsibilities:** (fill in)
-- **Notable projects or work:** (fill in)
-
----
-
-## What I'm Working On
-
-- (fill in from transcription — current tasks, tickets, projects, priorities)
-
----
-
-## Meetings & Cadence
-
-- (fill in — recurring meetings, standups, rituals, cadence)
-
----
-
-## Notes / Reflections
-
-- (fill in from transcription)
-
----
-
-## How to update this
-
-After each meeting or transcription:
-1. Pull out: role details, what's being worked on, meetings, decisions, blockers.
-2. Fill in the relevant sections.
-3. Any decisions made at Winnov8 should also go into the decisions log.
+Use the Japanese Principles decision framework when weighing this:
+- **Ikigai:** Does this move toward purpose (glorify God, build things that outlast, help people)?
+- **Kaizen:** What's the smallest step to resolve the compensation question? One conversation. One proposal.
+- **The System:** Can I measure whether it's worth it? If you can't measure it, it's not worth the time.
